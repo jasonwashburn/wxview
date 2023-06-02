@@ -1,0 +1,9 @@
+name: wxview
+dependencies:
+  - numpy
+  - matplotlib
+  - hvplot
+  - bokeh
+  - panel
+  - xarray
+  - netcdf4
